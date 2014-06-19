@@ -1,0 +1,8 @@
+platforms:
+  all:
+    windows:
+      - win32
+      - win64
+    unix:
+      - linux
+      - osx
